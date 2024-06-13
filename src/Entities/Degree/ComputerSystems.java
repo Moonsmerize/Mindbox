@@ -1,7 +1,6 @@
 package Entities.Degree;
 
 import java.util.Date;
-
 import Entities.Coordinator;
 
 public class ComputerSystems extends Degree {

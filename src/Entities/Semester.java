@@ -7,15 +7,15 @@ import Entities.Degree.Degree;
 public class Semester {
 
     private String id;
-    private Semester semester;
+    private byte semester;
     private Degree degree;
     private ArrayList<Group> groups;
 
-    public Semester(String id, Semester semester, Degree degree, ArrayList<Group> groups) {
+    public Semester(String id, byte semester, Degree degree) {
         this.id = id;
         this.semester = semester;
         this.degree = degree;
-        this.groups = groups;
+        this.groups = new ArrayList<>();
     }
 
     public Semester() {
@@ -27,14 +27,6 @@ public class Semester {
 
     public void setId(String id) {
         this.id = id;
-    }
-
-    public Semester getSemester() {
-        return semester;
-    }
-
-    public void setSemester(Semester semester) {
-        this.semester = semester;
     }
 
     public Degree getDegree() {
@@ -51,6 +43,14 @@ public class Semester {
 
     public void setGroups(ArrayList<Group> groups) {
         this.groups = groups;
+    }
+
+    public byte getSemester() {
+        return semester;
+    }
+
+    public void setSemester(byte semester) {
+        this.semester = semester;
     }
 
 }

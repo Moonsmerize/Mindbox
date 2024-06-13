@@ -60,6 +60,14 @@ public class Employee extends User {
         this.birthDay = birthDay;
     }
 
+    public Date getRegistrationDate() {
+        return registrationDate;
+    }
+
+    public void setRegistrationDate(Date registrationDate) {
+        this.registrationDate = registrationDate;
+    }
+
     public String getCity() {
         return city;
     }
@@ -90,14 +98,6 @@ public class Employee extends User {
 
     public void setAddress(String address) {
         this.address = address;
-    }
-
-    public Date getRegistrationDate() {
-        return registrationDate;
-    }
-
-    public void setRegistrationDate(Date registrationDate) {
-        this.registrationDate = registrationDate;
     }
 
     public String getRfc() {

@@ -1,7 +1,6 @@
 package Entities.Degree;
 
 import java.util.Date;
-
 import Entities.Coordinator;
 
 public class Degree {
@@ -58,20 +57,20 @@ public class Degree {
         this.studentsQuantity = studentsQuantity;
     }
 
-    public Date getCreationDate() {
-        return creationDate;
-    }
-
-    public void setCreationDate(Date creationDate) {
-        this.creationDate = creationDate;
-    }
-
     public Coordinator getCoordinator() {
         return coordinator;
     }
 
     public void setCoordinator(Coordinator coordinator) {
         this.coordinator = coordinator;
+    }
+
+    public Date getCreationDate() {
+        return creationDate;
+    }
+
+    public void setCreationDate(Date creationDate) {
+        this.creationDate = creationDate;
     }
 
 }

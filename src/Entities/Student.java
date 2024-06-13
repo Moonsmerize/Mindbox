@@ -21,8 +21,9 @@ public class Student {
     private String controlNumber;
     private HashMap<String, Historical> historical;
 
-    public Student(String name, String lastName, Date birthDay, String city, String state, String curp, String address,
-            Date registerDate, Degree degree, Semester semester, Group group, float average, String controlNumber) {
+    public Student(String name, String lastName, Date birthDay, String city, String state, String curp,
+            String address, Date registerDate, Degree degree, Semester semester, Group group, float average,
+            String controlNumber) {
         this.name = name;
         this.lastName = lastName;
         this.birthDay = birthDay;
@@ -58,14 +59,6 @@ public class Student {
         this.lastName = lastName;
     }
 
-    public Date getBirthDay() {
-        return birthDay;
-    }
-
-    public void setBirthDay(Date birthDay) {
-        this.birthDay = birthDay;
-    }
-
     public String getCity() {
         return city;
     }
@@ -96,6 +89,14 @@ public class Student {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public Date getBirthDay() {
+        return birthDay;
+    }
+
+    public void setBirthDay(Date birthDay) {
+        this.birthDay = birthDay;
     }
 
     public Date getRegisterDate() {
