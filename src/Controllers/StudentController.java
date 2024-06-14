@@ -1,10 +1,6 @@
 package Controllers;
 
 import java.util.Date;
-
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import Entities.Student;
 import Utilities.ConsoleReader;
 import Utilities.Generetors.StudentControlNumberGenerator;
@@ -23,9 +19,7 @@ public class StudentController {
         float average = Float.parseFloat(ConsoleReader.inputString("name"));
         String controlnumber = StudentControlNumberGenerator.generateControlNumber(name.substring(0, 1), "ISC",
                 birthday.substring(0, 2));
-        Gson studentGson = new GsonBuilder().setPrettyPrinting().create();
-        String representation = studentGson.toJson(studentGson);
-
+        Student student = new Student();
     }
 
 }

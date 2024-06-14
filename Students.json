@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Nestor Daniel",
+    "lastName": "Luna Avila",
+    "birthDay": "1999-11-19",
+    "city": "Morelia",
+    "state": "Michoacan",
+    "curp": "12345",
+    "address": "Azul #18",
+    "registerDate": "2022-09-30",
+    "degree": {
+      "id": "ISC2022-2024",
+      "name": "Computer Systems Engineering",
+      "groupsQuantity": 1,
+      "studentsQuantity": 35,
+      "creationDate": "2022-09-30",
+      "coordinator": {
+        "name": "coorinator1",
+        "lastName": "coorinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0,
+        "password": "coordinator1",
+        "username": "coordinator1"
+      }
+    },
+    "semester": {
+      "id": "ISC1",
+      "semester": 1,
+      "degree": {
+        "id": "ISC2022-2024",
+        "name": "Computer Systems Engineering",
+        "groupsQuantity": 1,
+        "studentsQuantity": 35,
+        "creationDate": "2022-09-30",
+        "coordinator": {
+          "name": "coorinator1",
+          "lastName": "coorinator1",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #18",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1002.0,
+          "password": "coordinator1",
+          "username": "coordinator1"
+        }
+      },
+      "groups": []
+    },
+    "group": {
+      "degree": {
+        "id": "ISC2022-2024",
+        "name": "Computer Systems Engineering",
+        "groupsQuantity": 1,
+        "studentsQuantity": 35,
+        "creationDate": "2022-09-30",
+        "coordinator": {
+          "name": "coorinator1",
+          "lastName": "coorinator1",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #18",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1002.0,
+          "password": "coordinator1",
+          "username": "coordinator1"
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC2022-2024",
+          "name": "Computer Systems Engineering",
+          "groupsQuantity": 1,
+          "studentsQuantity": 35,
+          "creationDate": "2022-09-30",
+          "coordinator": {
+            "name": "coorinator1",
+            "lastName": "coorinator1",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #18",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1002.0,
+            "password": "coordinator1",
+            "username": "coordinator1"
+          }
+        },
+        "groups": []
+      }
+    },
+    "average": 91.0,
+    "controlNumber": "asd12",
+    "historical": {}
+  },
+  {
+    "name": "Yamile",
+    "lastName": "Garcia",
+    "birthDay": "2004-05-18",
+    "city": "Morelia",
+    "state": "Michoacan",
+    "curp": "56789",
+    "address": "Verde #75",
+    "registerDate": "2022-09-30",
+    "degree": {
+      "id": "ISC2022-2024",
+      "name": "Computer Systems Engineering",
+      "groupsQuantity": 1,
+      "studentsQuantity": 35,
+      "creationDate": "2022-09-30",
+      "coordinator": {
+        "name": "coorinator1",
+        "lastName": "coorinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0,
+        "password": "coordinator1",
+        "username": "coordinator1"
+      }
+    },
+    "semester": {
+      "id": "ISC1",
+      "semester": 1,
+      "degree": {
+        "id": "ISC2022-2024",
+        "name": "Computer Systems Engineering",
+        "groupsQuantity": 1,
+        "studentsQuantity": 35,
+        "creationDate": "2022-09-30",
+        "coordinator": {
+          "name": "coorinator1",
+          "lastName": "coorinator1",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #18",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1002.0,
+          "password": "coordinator1",
+          "username": "coordinator1"
+        }
+      },
+      "groups": []
+    },
+    "group": {
+      "degree": {
+        "id": "ISC2022-2024",
+        "name": "Computer Systems Engineering",
+        "groupsQuantity": 1,
+        "studentsQuantity": 35,
+        "creationDate": "2022-09-30",
+        "coordinator": {
+          "name": "coorinator1",
+          "lastName": "coorinator1",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #18",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1002.0,
+          "password": "coordinator1",
+          "username": "coordinator1"
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC2022-2024",
+          "name": "Computer Systems Engineering",
+          "groupsQuantity": 1,
+          "studentsQuantity": 35,
+          "creationDate": "2022-09-30",
+          "coordinator": {
+            "name": "coorinator1",
+            "lastName": "coorinator1",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #18",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1002.0,
+            "password": "coordinator1",
+            "username": "coordinator1"
+          }
+        },
+        "groups": []
+      }
+    },
+    "average": 90.0,
+    "controlNumber": "asd1234",
+    "historical": {}
+  }
+]

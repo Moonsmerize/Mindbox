@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ISC",
+    "name": "Electronics Engineering",
+    "groupsQuantity": 0,
+    "studentsQuantity": 0,
+    "creationDate": "2000-09-01",
+    "coordinator": {
+      "name": "coordinator2",
+      "lastName": "coordinator2",
+      "birthDay": "1998-11-05",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234567890",
+      "address": "Azul #17",
+      "registrationDate": "2020-06-03",
+      "rfc": "1234567890",
+      "topics": [],
+      "salary": 1001.0,
+      "password": "coodinator2",
+      "username": "coodinator2"
+    }
+  },
+  {
+    "id": "ISC",
+    "name": "Computer Systems Engineering",
+    "groupsQuantity": 0,
+    "studentsQuantity": 0,
+    "creationDate": "2000-09-01",
+    "coordinator": {
+      "name": "coordinator",
+      "lastName": "coordinator",
+      "birthDay": "1998-11-05",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234567890",
+      "address": "Azul #19",
+      "registrationDate": "2020-06-03",
+      "rfc": "1234567890",
+      "topics": [],
+      "salary": 1003.0,
+      "password": "coordinator",
+      "username": "coorinator"
+    }
+  },
+  {
+    "id": "ISC",
+    "name": "Materials Engineering",
+    "groupsQuantity": 0,
+    "studentsQuantity": 0,
+    "creationDate": "2000-09-01",
+    "coordinator": {
+      "name": "coorinator1",
+      "lastName": "coorinator1",
+      "birthDay": "1998-11-05",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234567890",
+      "address": "Azul #18",
+      "registrationDate": "2020-06-03",
+      "rfc": "1234567890",
+      "topics": [],
+      "salary": 1002.0,
+      "password": "coordinator1",
+      "username": "coordinator1"
+    }
+  }
+]

@@ -1,67 +1,79 @@
 package Repositories;
 
 import java.util.ArrayList;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.lang.reflect.Type;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
 import Entities.Student;
 
 public class StudentRepository {
-    public ArrayList<Student> students = new ArrayList<>();
+    private static ArrayList<Student> students = new ArrayList<>();
     Student temporalStudent;
     int temporalIndex;
 
-    public StudentRepository() {
-        students = new ArrayList<>();
-        File file = new File("Students.json");
-        if (file.exists()) {
-            // readInformation()
+    public static void readJson() {
+        Gson gson = new Gson();
+
+        try {
+            String json = new String(Files.readAllBytes(Paths.get("Students.json")));
+            Type listItemType = new TypeToken<ArrayList<Student>>() {
+            }.getType();
+
+            // convert json array to List<Item>
+            getStudents().addAll(gson.fromJson(json, listItemType));
+
+            System.out.println("students arraylist length after reading json: " + getStudents().size());
+        } catch (IOException e) {
+
+        }
+
+    }
+
+    public static void writeInformation() {
+        Gson prettierGson = new GsonBuilder().setPrettyPrinting().setDateFormat("yyyy-MM-dd").create();
+        String jsonArray = prettierGson.toJson(getStudents());
+
+        try (FileWriter fileWriter = new FileWriter("Students.json")) {
+            fileWriter.write(jsonArray.toString());
+            fileWriter.flush();
+        } catch (IOException e) {
+            System.out.println("Something went wrong writing");
         }
     }
 
-    public void readInformation() {
-        JSONParser parser = new JSONParser();
+    public static ArrayList<Student> getStudents() {
+        return students;
+    }
 
-        try {
-            Object object = parser.parse(new FileReader("Students.json"));
-            JSONObject jsonObject = (JSONObject) object;
-            JSONArray studentsArray = (JSONArray) jsonObject.get("StudentsList");
+    public static void setStudents(ArrayList<Student> students) {
+        StudentRepository.students = students;
+    }
 
-            for (int i = 0; i < studentsArray.size(); i++) {
-                Student student = new Student();
+    public Student getTemporalStudent() {
+        return temporalStudent;
+    }
 
-                Object studentObject = studentsArray.get(i);
+    public void setTemporalStudent(Student temporalStudent) {
+        this.temporalStudent = temporalStudent;
+    }
 
-                JSONObject studenObjectJson = (JSONObject) studentObject;
+    public int getTemporalIndex() {
+        return temporalIndex;
+    }
 
-                student.setName(studenObjectJson.get("name").toString());
-                student.setLastName(studenObjectJson.get("lastName").toString());
-                // student.setBirthDay(LocalDate.parse(studenObjectJson.get("birthDay").toString()));
-                student.setCity(studenObjectJson.get("city").toString());
-                student.setState(studenObjectJson.get("state").toString());
-                student.setCurp(studenObjectJson.get("curp").toString());
-                student.setAddress(studenObjectJson.get("address").toString());
-                // student.setRegisterDate(Date.parse(studenObjectJson.get("registerDate").toString()));
-                // student.setDegree(studenObjectJson.get("degree").toString());
-                // student.setSemester(studenObjectJson.get("group").toString());
-                // student.setGroup(studenObjectJson.get("group").toString());
-                student.setAverage(Float.parseFloat(studenObjectJson.get("average").toString()));
-                student.setControlNumber(studenObjectJson.get("controlNumber").toString());
+    public void setTemporalIndex(int temporalIndex) {
+        this.temporalIndex = temporalIndex;
+    }
 
-                this.students.add(student);
-            }
-        } catch (FileNotFoundException e) {
-            System.out.println("Something went wrong (File)");
-        } catch (IOException e) {
-            System.out.println("Something went wrong (IO)");
-        } catch (org.json.simple.parser.ParseException e) {
-            System.out.println("Something went wrong (Parsing)");
-        }
-
+    @Override
+    public String toString() {
+        return "StudentRepository [toString()=" + super.toString() + "]";
     }
 
 }
