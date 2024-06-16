@@ -6,6 +6,8 @@ import Entities.Degree.Degree;
 
 public class Student {
 
+    private String username;
+    private String password;
     private String name;
     private String lastName;
     private Date birthDay;
@@ -21,9 +23,12 @@ public class Student {
     private String controlNumber;
     private HashMap<String, Historical> historical;
 
-    public Student(String name, String lastName, Date birthDay, String city, String state, String curp,
-            String address, Date registerDate, Degree degree, Semester semester, Group group, float average,
+    public Student(String password, String username, String name, String lastName, Date birthDay, String city,
+            String state, String curp, String address, Date registerDate, Degree degree, Semester semester, Group group,
             String controlNumber) {
+
+        this.username = username;
+        this.password = password;
         this.name = name;
         this.lastName = lastName;
         this.birthDay = birthDay;
@@ -35,9 +40,25 @@ public class Student {
         this.degree = degree;
         this.semester = semester;
         this.group = group;
-        this.average = average;
+        this.average = 0;
         this.controlNumber = controlNumber;
         this.historical = new HashMap<>();
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public Student() {

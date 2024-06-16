@@ -3,8 +3,10 @@ package Entities;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class Employee extends User {
+public class Employee {
 
+    private String username;
+    private String password;
     private String name;
     private String lastName;
     private Date birthDay;
@@ -19,7 +21,8 @@ public class Employee extends User {
 
     public Employee(String password, String username, String name, String lastName, Date birthDay, String city,
             String state, String curp, String address, Date registrationDate, String rfc, double salary) {
-        super(password, username);
+        this.username = username;
+        this.password = password;
         this.name = name;
         this.lastName = lastName;
         this.birthDay = birthDay;
@@ -122,6 +125,22 @@ public class Employee extends User {
 
     public void setSalary(double salary) {
         this.salary = salary;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 
 }

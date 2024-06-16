@@ -1,6 +1,6 @@
 [
   {
-    "id": "ISC",
+    "id": "ELC",
     "name": "Electronics Engineering",
     "groupsQuantity": 0,
     "studentsQuantity": 0,
@@ -17,8 +17,8 @@
       "rfc": "1234567890",
       "topics": [],
       "salary": 1001.0,
-      "password": "coodinator2",
-      "username": "coodinator2"
+      "password": "coordinator2",
+      "username": "coordinator2"
     }
   },
   {
@@ -40,18 +40,18 @@
       "topics": [],
       "salary": 1003.0,
       "password": "coordinator",
-      "username": "coorinator"
+      "username": "coordinator"
     }
   },
   {
-    "id": "ISC",
+    "id": "IMAT",
     "name": "Materials Engineering",
     "groupsQuantity": 0,
     "studentsQuantity": 0,
     "creationDate": "2000-09-01",
     "coordinator": {
-      "name": "coorinator1",
-      "lastName": "coorinator1",
+      "name": "coordinator1",
+      "lastName": "coordinator1",
       "birthDay": "1998-11-05",
       "city": "Morelia",
       "state": "Michoacan",

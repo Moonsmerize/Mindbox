@@ -15,8 +15,8 @@
       "studentsQuantity": 35,
       "creationDate": "2022-09-30",
       "coordinator": {
-        "name": "coorinator1",
-        "lastName": "coorinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
         "birthDay": "1998-11-05",
         "city": "Morelia",
         "state": "Michoacan",
@@ -40,8 +40,8 @@
         "studentsQuantity": 35,
         "creationDate": "2022-09-30",
         "coordinator": {
-          "name": "coorinator1",
-          "lastName": "coorinator1",
+          "name": "coordinator1",
+          "lastName": "coordinator1",
           "birthDay": "1998-11-05",
           "city": "Morelia",
           "state": "Michoacan",
@@ -65,8 +65,8 @@
         "studentsQuantity": 35,
         "creationDate": "2022-09-30",
         "coordinator": {
-          "name": "coorinator1",
-          "lastName": "coorinator1",
+          "name": "coordinator1",
+          "lastName": "coordinator1",
           "birthDay": "1998-11-05",
           "city": "Morelia",
           "state": "Michoacan",
@@ -94,8 +94,8 @@
           "studentsQuantity": 35,
           "creationDate": "2022-09-30",
           "coordinator": {
-            "name": "coorinator1",
-            "lastName": "coorinator1",
+            "name": "coordinator1",
+            "lastName": "coordinator1",
             "birthDay": "1998-11-05",
             "city": "Morelia",
             "state": "Michoacan",
@@ -114,7 +114,9 @@
     },
     "average": 91.0,
     "controlNumber": "asd12",
-    "historical": {}
+    "historical": {},
+    "password": "student1",
+    "username": "student1"
   },
   {
     "name": "Yamile",
@@ -132,8 +134,8 @@
       "studentsQuantity": 35,
       "creationDate": "2022-09-30",
       "coordinator": {
-        "name": "coorinator1",
-        "lastName": "coorinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
         "birthDay": "1998-11-05",
         "city": "Morelia",
         "state": "Michoacan",
@@ -157,8 +159,8 @@
         "studentsQuantity": 35,
         "creationDate": "2022-09-30",
         "coordinator": {
-          "name": "coorinator1",
-          "lastName": "coorinator1",
+          "name": "coordinator1",
+          "lastName": "coordinator1",
           "birthDay": "1998-11-05",
           "city": "Morelia",
           "state": "Michoacan",
@@ -182,8 +184,8 @@
         "studentsQuantity": 35,
         "creationDate": "2022-09-30",
         "coordinator": {
-          "name": "coorinator1",
-          "lastName": "coorinator1",
+          "name": "coordinator1",
+          "lastName": "coordinator1",
           "birthDay": "1998-11-05",
           "city": "Morelia",
           "state": "Michoacan",
@@ -211,8 +213,8 @@
           "studentsQuantity": 35,
           "creationDate": "2022-09-30",
           "coordinator": {
-            "name": "coorinator1",
-            "lastName": "coorinator1",
+            "name": "coordinator1",
+            "lastName": "coordinator1",
             "birthDay": "1998-11-05",
             "city": "Morelia",
             "state": "Michoacan",
@@ -231,6 +233,8 @@
     },
     "average": 90.0,
     "controlNumber": "asd1234",
-    "historical": {}
+    "historical": {},
+    "password": "student2",
+    "username": "student2"
   }
 ]
