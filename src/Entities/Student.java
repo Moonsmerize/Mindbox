@@ -21,7 +21,7 @@ public class Student {
     private Group group;
     private float average;
     private String controlNumber;
-    private HashMap<String, Historical> historical;
+    private HashMap<String, Record> record;
 
     public Student(String password, String username, String name, String lastName, Date birthDay, String city,
             String state, String curp, String address, Date registerDate, Degree degree, Semester semester, Group group,
@@ -42,7 +42,7 @@ public class Student {
         this.group = group;
         this.average = 0;
         this.controlNumber = controlNumber;
-        this.historical = new HashMap<>();
+        this.record = new HashMap<>();
     }
 
     public String getUsername() {
@@ -168,12 +168,12 @@ public class Student {
         this.controlNumber = controlNumber;
     }
 
-    public HashMap<String, Historical> getHistorical() {
-        return historical;
+    public HashMap<String, Record> getRecord() {
+        return record;
     }
 
-    public void setHistorical(HashMap<String, Historical> historical) {
-        this.historical = historical;
+    public void setRecord(HashMap<String, Record> historical) {
+        this.record = historical;
     }
 
 }

@@ -2,12 +2,13 @@ package Controllers;
 
 import org.json.JSONArray;
 import com.google.gson.Gson;
+
+import Entities.Menu;
 import Entities.MenuItem;
 import Entities.Student;
 import Interfaces.Controller;
 import Repositories.StudentRepository;
 import Utilities.ConsoleReader;
-import Utilities.Menu;
 import Utilities.Generetors.StudentControlNumberGenerator;
 
 public class StudentController implements Controller {

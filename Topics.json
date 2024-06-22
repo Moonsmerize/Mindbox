@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "ISC-Pro01",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Pro02",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Pro03",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Prog01",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Prog02",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Prog03",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Cal01",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Cal02",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "ISC-Cal03",
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor1",
+      "password": "professor1",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Est01",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Est02",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Est03",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Con01",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Con02",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Con03",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Cal01",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Cal01",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "imat-Cal01",
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor2",
+      "password": "professor2",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Red01",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Red02",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Red03",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Cir01",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Cir02",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Cir03",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Cal01",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Cal02",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  },
+  {
+    "id": "elc-Cal03",
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "group": {
+      "degree": {
+        "id": "ISC",
+        "name": "ComputerSystemsEngineering",
+        "groupsQuantity": 0,
+        "studentsQuantity": 0,
+        "creationDate": "2000-09-01",
+        "coordinator": {
+          "username": "coordinator",
+          "password": "coordinator",
+          "name": "coordinator",
+          "lastName": "coordinator",
+          "birthDay": "1998-11-05",
+          "city": "Morelia",
+          "state": "Michoacan",
+          "curp": "1234567890",
+          "address": "Azul #19",
+          "registrationDate": "2020-06-03",
+          "rfc": "1234567890",
+          "topics": [],
+          "salary": 1003.0
+        }
+      },
+      "students": [],
+      "groupType": "A",
+      "id": "123",
+      "topics": [],
+      "semester": {
+        "id": "ISC1",
+        "semester": 1,
+        "degree": {
+          "id": "ISC",
+          "name": "ComputerSystemsEngineering",
+          "groupsQuantity": 0,
+          "studentsQuantity": 0,
+          "creationDate": "2000-09-01",
+          "coordinator": {
+            "username": "coordinator",
+            "password": "coordinator",
+            "name": "coordinator",
+            "lastName": "coordinator",
+            "birthDay": "1998-11-05",
+            "city": "Morelia",
+            "state": "Michoacan",
+            "curp": "1234567890",
+            "address": "Azul #19",
+            "registrationDate": "2020-06-03",
+            "rfc": "1234567890",
+            "topics": [],
+            "salary": 1003.0
+          }
+        },
+        "groups": []
+      }
+    },
+    "professor": {
+      "controlNumber": "142cfsda",
+      "username": "professor3",
+      "password": "professor3",
+      "name": "proffesor1",
+      "lastName": "professor1",
+      "birthDay": "1978-02-17",
+      "city": "Morelia",
+      "state": "Michoacan",
+      "curp": "1234",
+      "address": "Rosa #41",
+      "registrationDate": "2003-09-04",
+      "rfc": "asda",
+      "topics": [],
+      "salary": 1500.0
+    }
+  }
+]

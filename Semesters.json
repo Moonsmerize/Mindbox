@@ -1,0 +1,245 @@
+[
+  {
+    "id": "ISC1",
+    "semester": 1,
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "ISC2",
+    "semester": 2,
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "ISC3",
+    "semester": 3,
+    "degree": {
+      "id": "ISC",
+      "name": "ComputerSystemsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator",
+        "password": "coordinator",
+        "name": "coordinator",
+        "lastName": "coordinator",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #19",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1003.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "ELC1",
+    "semester": 1,
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "ELC2",
+    "semester": 2,
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "ELC3",
+    "semester": 3,
+    "degree": {
+      "id": "ELC",
+      "name": "ElectronicsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator2",
+        "password": "coordinator2",
+        "name": "coordinator2",
+        "lastName": "coordinator2",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #17",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1001.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "IMAT1",
+    "semester": 1,
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "IMAT2",
+    "semester": 2,
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "groups": []
+  },
+  {
+    "id": "IMAT3",
+    "semester": 3,
+    "degree": {
+      "id": "IMAT",
+      "name": "MaterialsEngineering",
+      "groupsQuantity": 0,
+      "studentsQuantity": 0,
+      "creationDate": "2000-09-01",
+      "coordinator": {
+        "username": "coordinator1",
+        "password": "coordinator1",
+        "name": "coordinator1",
+        "lastName": "coordinator1",
+        "birthDay": "1998-11-05",
+        "city": "Morelia",
+        "state": "Michoacan",
+        "curp": "1234567890",
+        "address": "Azul #18",
+        "registrationDate": "2020-06-03",
+        "rfc": "1234567890",
+        "topics": [],
+        "salary": 1002.0
+      }
+    },
+    "groups": []
+  }
+]

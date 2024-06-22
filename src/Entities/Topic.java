@@ -7,9 +7,9 @@ public class Topic {
     private String id;
     private Degree degree;
     private Group group;
-    private Professor professor;
+    private Employee professor;
 
-    public Topic(String id, Degree degree, Group group, Professor professor) {
+    public Topic(String id, Degree degree, Group group, Employee professor) {
         this.id = id;
         this.degree = degree;
         this.group = group;
@@ -43,11 +43,11 @@ public class Topic {
         this.group = group;
     }
 
-    public Professor getProfessor() {
+    public Employee getProfessor() {
         return professor;
     }
 
-    public void setProfessor(Professor professor) {
+    public void setProfessor(Employee professor) {
         this.professor = professor;
     }
 

@@ -4,13 +4,15 @@ import Interfaces.Controller;
 
 public class Logout implements Controller {
 
+    public static boolean logoutValidator = false;
+
     @Override
     public void execute() {
-        logOut();
+        logout();
     }
 
-    public void logOut() {
-        Main.logoutValidator = 0;
+    public void logout() {
+        logoutValidator = true;
     }
 
 }

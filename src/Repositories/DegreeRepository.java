@@ -1,6 +1,5 @@
 package Repositories;
 
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Type;
@@ -10,8 +9,6 @@ import java.util.ArrayList;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-
-import Entities.Coordinator;
 import Entities.Degree.Degree;
 import Utilities.DateFormatter;
 
@@ -44,27 +41,32 @@ public class DegreeRepository {
     public static void printDegrees() {
         int index = 0;
         System.out.printf(
-                "--------------------------------------------------------------------------------------------------------------------\n");
+                "-----------------------------------------------------------------------------------------------------------------------\n");
         System.out.printf(
-                "|                                                         Degrees                                                  |\n");
+                "|                                                          Degrees                                                    |\n");
         System.out.printf(
-                "--------------------------------------------------------------------------------------------------------------------\n");
-        System.out.printf("| %25s | %7s | %28s | %10s | %7s | %12s | %5s |\n", "Coordinator", "Id", "Name",
-                "#Students",
-                "#Groups",
-                "Creation day", "index");
+                "-----------------------------------------------------------------------------------------------------------------------\n");
+        System.out.printf("| %25s | %10s | %28s | %10s | %7s | %12s | %5s |\n", "Coordinator", "Id", "Name",
+                "#Students", "#Groups", "Creation day", "index");
         System.out.printf(
-                "--------------------------------------------------------------------------------------------------------------------\n");
+                "-----------------------------------------------------------------------------------------------------------------------\n");
         for (Degree degree : degrees) {
-            System.out.printf("| %25s | %7s | %28s | %10s | %7s | %12s | %5s |\n",
+            System.out.printf("| %25s | %10s | %28s | %10s | %7s | %12s | %5s |\n",
                     degree.getCoordinator().getName().concat(" " + degree.getCoordinator().getLastName()),
-                    degree.getId(),
-                    degree.getName(), degree.getStudentsQuantity(), degree.getGroupsQuantity(),
+                    degree.getId(), degree.getName(), degree.getStudentsQuantity(), degree.getGroupsQuantity(),
                     DateFormatter.Format(degree.getCreationDate()), index);
             index++;
         }
         System.out.printf(
-                "--------------------------------------------------------------------------------------------------------------------\n");
+                "-----------------------------------------------------------------------------------------------------------------------\n");
+    }
+
+    public static ArrayList<Degree> getDegrees() {
+        return degrees;
+    }
+
+    public static void setDegrees(ArrayList<Degree> degrees) {
+        DegreeRepository.degrees = degrees;
     }
 
 }

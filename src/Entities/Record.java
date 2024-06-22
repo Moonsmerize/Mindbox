@@ -1,28 +1,20 @@
 package Entities;
 
-public class Historical {
+public class Record {
 
-    private String topic;
+    private Topic topic;
     private float score;
     private String professor;
     private float average;
 
-    public Historical(String topic, float score, String professor, float average) {
+    public Record(Topic topic, float score, String professor, float average) {
         this.topic = topic;
         this.score = score;
         this.professor = professor;
         this.average = average;
     }
 
-    public Historical() {
-    }
-
-    public String getTopic() {
-        return topic;
-    }
-
-    public void setTopic(String topic) {
-        this.topic = topic;
+    public Record() {
     }
 
     public float getScore() {
@@ -47,6 +39,14 @@ public class Historical {
 
     public void setAverage(float average) {
         this.average = average;
+    }
+
+    public Topic getTopic() {
+        return topic;
+    }
+
+    public void setTopic(Topic topic) {
+        this.topic = topic;
     }
 
 }

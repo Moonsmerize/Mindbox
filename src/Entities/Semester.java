@@ -11,6 +11,13 @@ public class Semester {
     private Degree degree;
     private ArrayList<Group> groups;
 
+    public Semester(String id, byte semester, Degree degree, ArrayList<Group> groups) {
+        this.id = id;
+        this.semester = semester;
+        this.degree = degree;
+        this.groups = groups;
+    }
+
     public Semester(String id, byte semester, Degree degree) {
         this.id = id;
         this.semester = semester;

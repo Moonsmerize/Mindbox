@@ -1,11 +1,13 @@
 [
   {
-    "id": "ELC",
-    "name": "Electronics Engineering",
+    "id": "ELC-24AB",
+    "name": "ElectronicsEngineering",
     "groupsQuantity": 0,
     "studentsQuantity": 0,
     "creationDate": "2000-09-01",
     "coordinator": {
+      "username": "coordinator2",
+      "password": "coordinator2",
       "name": "coordinator2",
       "lastName": "coordinator2",
       "birthDay": "1998-11-05",
@@ -16,18 +18,18 @@
       "registrationDate": "2020-06-03",
       "rfc": "1234567890",
       "topics": [],
-      "salary": 1001.0,
-      "password": "coordinator2",
-      "username": "coordinator2"
+      "salary": 1001.0
     }
   },
   {
-    "id": "ISC",
-    "name": "Computer Systems Engineering",
+    "id": "ISC-24AB",
+    "name": "ComputerSystemsEngineering",
     "groupsQuantity": 0,
     "studentsQuantity": 0,
     "creationDate": "2000-09-01",
     "coordinator": {
+      "username": "coordinator",
+      "password": "coordinator",
       "name": "coordinator",
       "lastName": "coordinator",
       "birthDay": "1998-11-05",
@@ -38,18 +40,18 @@
       "registrationDate": "2020-06-03",
       "rfc": "1234567890",
       "topics": [],
-      "salary": 1003.0,
-      "password": "coordinator",
-      "username": "coordinator"
+      "salary": 1003.0
     }
   },
   {
-    "id": "IMAT",
-    "name": "Materials Engineering",
+    "id": "IMAT-24AB",
+    "name": "MaterialsEngineering",
     "groupsQuantity": 0,
     "studentsQuantity": 0,
     "creationDate": "2000-09-01",
     "coordinator": {
+      "username": "coordinator1",
+      "password": "coordinator1",
       "name": "coordinator1",
       "lastName": "coordinator1",
       "birthDay": "1998-11-05",
@@ -60,9 +62,7 @@
       "registrationDate": "2020-06-03",
       "rfc": "1234567890",
       "topics": [],
-      "salary": 1002.0,
-      "password": "coordinator1",
-      "username": "coordinator1"
+      "salary": 1002.0
     }
   }
 ]
